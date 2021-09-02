@@ -1,0 +1,13 @@
+interfaces_ornekler.surungen
+interfaces_ornekler.arayuz1
+interfaces_ornekler.insan
+interfaces_ornekler.sinif2
+interfaces_ornekler.Interfaces_Ornekler
+interfaces_ornekler.sinif1
+interfaces_ornekler.canli
+interfaces_ornekler.Hayvan
+interfaces_ornekler.arayuz1$arayuz2
+interfaces_ornekler.Interface_Genisletme
+interfaces_ornekler.mehmet
+interfaces_ornekler.Timsah
+interfaces_ornekler.Tavsan
