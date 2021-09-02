@@ -1,0 +1,21 @@
+package java_portlar_ve_net;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+
+public class Java_Portlar_Ve_Net {
+    
+     public static void main(String[] args) {
+        for (int i = 0; i < args.length; ++i) {
+            try {
+                InetAddress address = InetAddress.getByName(args[i]);
+                System.out.print("Host name: " + address.getHostName() + " ");
+                System.out.println("IP address: " + address.getHostAddress());                
+            }
+            catch (UnknownHostException ex) {
+                System.err.println("Unknown host or IP address " + args[i]);
+            }
+        }
+    }
+}
